@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="testcases.TestCase33wPO" skipped="0" tests="1" time="31.14" timestamp="2020-05-03 10:55:32"><testcase classname="testcases.TestCase33wPO" name="Redireccion servicio cliente"><error message="Expected condition failed: waiting for url to contain &quot;mail&quot;. Current url: &quot;https://www.choucairtesting.com/empleos-testing/&quot; (tried for 2 second(s) with 500 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LAPTOP-J5ITQK72', ip: '192.168.0.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'&#10;Driver info: net.thucydides.core.webdriver.WebDriverFacade" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for url to contain "mail". Current url: "https://www.choucairtesting.com/empleos-testing/" (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-J5ITQK72', ip: '192.168.0.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: net.thucydides.core.webdriver.WebDriverFacade</error><system-err>Expected condition failed: waiting for url to contain "mail". Current url: "https://www.choucairtesting.com/empleos-testing/" (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-J5ITQK72', ip: '192.168.0.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: net.thucydides.core.webdriver.WebDriverFacade&#13;
+testcases.TestCase33wPO.RedireccionServicioCliente(TestCase33wPO.java:43)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testcases.TestCase33wPO
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 31.142 s <<< FAILURE! - in testcases.TestCase33wPO
+RedireccionServicioCliente(testcases.TestCase33wPO)  Time elapsed: 31.142 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for url to contain "mail". Current url: "https://www.choucairtesting.com/empleos-testing/" (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-J5ITQK72', ip: '192.168.0.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: net.thucydides.core.webdriver.WebDriverFacade
+	at testcases.TestCase33wPO.RedireccionServicioCliente(TestCase33wPO.java:43)
+
